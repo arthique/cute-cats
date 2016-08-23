@@ -1,0 +1,18 @@
+{
+  "app_name": {
+    "message": "Cute cats are ruling"
+  },
+  "app_short_name": {
+    "message": "Cats are ruling"
+  },
+  "app_description": {
+  "app_description": {
+    "message": "All pictures (size greater than 100px) on the page replace by image with cute cats. All forms of word as «information», «news» and «comment» replace by word «cute cat» in the correct form of the word"
+  },
+  "toolbar_button": {
+    "message": "Toggle cute cats"
+  },
+  "browser_action": {
+    "message": "Toggle cute cats"
+  }
+}
